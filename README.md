@@ -8,4 +8,4 @@ For more information, make sure to check out our
 
 ---
 
-<sub>&copy; unyt 2024 • [unyt.org](https://unyt.org)</sub>
+<sub>&copy; unyt 2025 • [unyt.org](https://unyt.org)</sub>
